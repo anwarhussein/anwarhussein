@@ -28,4 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anwarhussein&show_icons=true&locale=en" alt="anwarhussein" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anwarhussein&" alt="anwarhussein" /></p>
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=anwarhussein&show_icons=true)
+<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=anwarhussein&show_icons=true) -->
