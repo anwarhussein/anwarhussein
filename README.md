@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Anwar Hussein</h1>
 <h3 align="center">A qualified full-stack software engineer and an excellent bookkeeper.</h3>
 
@@ -15,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/anwarhussein](https://github.com/anwarhussein)
 
-- 💬 Ask me about **JavaScript, Java, React, Node js.**
+- 💬 Ask me about: **JavaScript, Java, React, Node js.**
 
-- 📫 How to reach me **anwarhussein2353@gmail.com**
+- 📫 How to reach me: **anwarhussein2353@gmail.com**
 
-- ⚡ Fun fact **I love watching English premier league soccer games.**
+- ⚡ Fun fact: **I love watching English premier league soccer games.**
 
 
 <h3 align="left">Languages and Tools:</h3>
